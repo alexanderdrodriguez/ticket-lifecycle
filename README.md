@@ -15,6 +15,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Windows 10</b> (21H2)
 
+<h2>List of Prerequisites</h2>
+
 - Follow this complete [osTicket Installation Tutorial](https://github.com/alexanderdrodriguez/osticket-prereqs) and [osTicket Post Installation Configuration Tutorial](https://github.com/alexanderdrodriguez/post-install-config)
 
 <h2>Ticket Lifecycle Stages</h2>
