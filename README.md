@@ -17,7 +17,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>List of Prerequisites</h2>
 
-- Follow this complete [osTicket Installation Tutorial](https://github.com/alexanderdrodriguez/osticket-prereqs) and [osTicket Post Installation Configuration Tutorial](https://github.com/alexanderdrodriguez/post-install-config)
+- Follow this complete [osTicket Installation Tutorial](https://github.com/alexanderdrodriguez/osticket-prereqs) and [osTicket Post Installation Configuration Tutorial](https://github.com/alexanderdrodriguez/post-install-config) before starting this tutorial
 
 <h2>Ticket Lifecycle Stages</h2>
 
