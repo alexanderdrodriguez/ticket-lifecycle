@@ -38,7 +38,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <p>Step 1: To start to create the three example tickets go to localhost/osTicket/ in your VMs browser</p>
 <img src="https://i.gyazo.com/195361755337373d51865e00624fa3f7.png">
-<p>Step2: Select open a new ticket -> Use Email Address: karen@osticket and Full Name: Karen Karen as contact information -> Help Topic: Business Critical Outage -> Ticket Details: “Entire Online banking system is down” -> Enter an example detail scenario like in one of the images below -> Click "Create Ticket"</p>
+<p>Step 2: Select open a new ticket -> Use Email Address: karen@osticket and Full Name: Karen Karen as contact information -> Help Topic: Business Critical Outage -> Ticket Details: “Entire Online banking system is down” -> Enter an example detail scenario like in one of the images below -> Click "Create Ticket"</p>
 <img src="https://i.gyazo.com/d7cb241a44875fd1867902186e4994a5.png">
 <img src="https://i.gyazo.com/5148b6dc6bed31a31690f14e9551a49e.png">
 <p>Step 3: Select open a new ticket -> Use Email Address: ken@osticket and Full Name: Ken Ken as contact information -> Help Topic: Personal Computer Issues -> Ticket Details: “Accounting department can't use Adobe Reader” -> Enter an example detail scenario like in the image below -> Click "Create Ticket"</p>
@@ -47,3 +47,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <p>Step 4: Select open a new ticket -> Use Email Address: karen@osticket and Full Name: Karen Karen as contact information -> Help Topic: Equipment Request-> Ticket Details: “Question on new computer hardware” -> Enter an example detail scenario like in the image below</p>
 <img src="https://i.gyazo.com/d7cb241a44875fd1867902186e4994a5.png">
 <img src="https://i.gyazo.com/8aaab9811bfe47e16960678ecfa3773a.png">
+<p>Step 5: Head to to localhost/osTicket/scp/login.php in your VM's browser and login using the admin account you created in the osTicket Instllation tutorial</p>
+<img src="https://i.gyazo.com/255cf2560f9907342d99cb6fb5120444.png">
