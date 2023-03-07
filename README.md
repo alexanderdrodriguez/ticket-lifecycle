@@ -47,5 +47,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <p>Step 4: Select open a new ticket -> Use Email Address: karen@osticket and Full Name: Karen Karen as contact information -> Help Topic: Equipment Request-> Ticket Details: “Question on new computer hardware” -> Enter an example detail scenario like in the image below</p>
 <img src="https://i.gyazo.com/d7cb241a44875fd1867902186e4994a5.png">
 <img src="https://i.gyazo.com/8aaab9811bfe47e16960678ecfa3773a.png">
-<p>Step 5: Head to to localhost/osTicket/scp/login.php in your VM's browser and login using the admin account you created in the osTicket Instllation tutorial</p>
+<p>Step 5: Head to to localhost/osTicket/scp/login.php in your VM's browser and login using the admin account you created in the osTicket Installation tutorial</p>
 <img src="https://i.gyazo.com/255cf2560f9907342d99cb6fb5120444.png">
