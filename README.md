@@ -44,3 +44,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <p>Step 3: Select open a new ticket -> Use Email Address: ken@osticket and Full Name: Ken Ken as contact information -> Help Topic: Personal Computer Issues -> Ticket Details: “Accounting department can't use Adobe Reader” -> Enter an example detail scenario like in the image below -> Click "Create Ticket"</p>
 <img src="https://i.gyazo.com/d7cb241a44875fd1867902186e4994a5.png">
 <img src="https://i.gyazo.com/97c6f9ba05a47d24be55367dfd01c411.png">
+<p>Step 4: Select open a new ticket -> Use Email Address: karen@osticket and Full Name: Karen Karen as contact information -> Help Topic: Equipment Request-> Ticket Details: “Question on new computer hardware” -> Enter an example detail scenario like in the image below</p>
+<img src="https://i.gyazo.com/d7cb241a44875fd1867902186e4994a5.png">
+<img src="https://i.gyazo.com/9e36be1777702707112634ba0e0c433a.png">
