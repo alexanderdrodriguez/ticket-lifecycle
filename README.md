@@ -38,7 +38,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <p>Step 1: To start to create the three example tickets go to localhost/osTicket/ in your VMs browser</p>
 <img src="https://i.gyazo.com/195361755337373d51865e00624fa3f7.png">
-<p>Step2: Select open a new ticket -> Use Email Address: karen@osticket and Full Name: Karen Karen as contact information -> Help Topic: Business Critical Outage -> Ticket Details: “Entire Online banking system is down” -> Enter an example detail scenario like in the image below</p>\
+<p>Step2: Select open a new ticket -> Use Email Address: karen@osticket and Full Name: Karen Karen as contact information -> Help Topic: Business Critical Outage -> Ticket Details: “Entire Online banking system is down” -> Enter an example detail scenario like in one of the images below</p>\
 <img src="https://i.gyazo.com/ca8799de4ab5b0527ac9f393989f7420.png">
 <img src="https://i.gyazo.com/5148b6dc6bed31a31690f14e9551a49e.png">
-<br />
