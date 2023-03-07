@@ -49,3 +49,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.gyazo.com/8aaab9811bfe47e16960678ecfa3773a.png">
 <p>Step 5: Head to to localhost/osTicket/scp/login.php in your VM's browser and login using the admin account you created in the osTicket installation tutorial</p>
 <img src="https://i.gyazo.com/255cf2560f9907342d99cb6fb5120444.png">
+<p>Step 6: Select “Tickets -> Select the ticket titled “Entire online banking system is down” -> Set Priority to Emergency -> Set the SLA to SEV-C -> Assign the ticket to yourself -> Assign the ticket to the System Administrators department -> Write an example reply explaining what you did to help solve the ticket hypothetically like the image below of my example response. -> Set the “Ticket Status:” to “Resolved” -> Click “Post Reply”</p>
+<img src="https://i.gyazo.com/b84131c824c29a6d87c7ef5741614eec.png">
+<img src="https://i.gyazo.com/ee7cb47077985883d1f2f06ad7daa201.png">
+<img src="https://i.gyazo.com/f304e7277a03e148ee869ce8ecc9598d.png">
+<img src="https://i.gyazo.com/f5fe0ce3dcad8bcc10b0f91a331db04f.png">
+<img src="https://i.gyazo.com/a8bf55f522277aa86044fccf5dab55de.png">
+<img src="https://i.gyazo.com/dd2033b5f9ecdf129ede4bc68c00de09.png">
