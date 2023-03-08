@@ -75,4 +75,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.gyazo.com/aa9bca0cb54c35628589495a0fc7bb15.png">
 <img src="https://i.gyazo.com/6309cee42ee59f57e754a11157509bac.png">
 <img src="https://i.gyazo.com/792c6cd6181ba2e26380c36e87184eec.png">
-<p>Congrats you’ve just completed all of the steps for this ticket lifecycle osTicket tutorial!</p>
+<p>Congrats you’ve just completed all of the steps for this osTicket ticket lifecycle tutorial!</p>
