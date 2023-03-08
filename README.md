@@ -65,3 +65,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.gyazo.com/236fbc21255b246c623c7a13fc64d3ca.png">
 <img src="https://i.gyazo.com/f62208adbb4f99478eb2e73d38cd742c.png">
 <img src="https://i.gyazo.com/7d8d77167a51aaed52bc70ab0a129b2f.png">
+<p>Step 8: Log out of the Jane Doe account -> Log in to the user_admin account -> Select the “Question on new computer hardware” ticket -> Leave the Priority to Normal -> Assign the ticket to “John Doe” -> Set the SLA to SEV-C -> Logout -> Log in as john.doe -> Select the “Question on new computer hardware” ticket -> Write an example reply explaining what you did to help solve the ticket hypothetically like the image below of my example response.-> Set the “Ticket Status:” to “Resolved” -> Click “Post Reply”</p>
+<img src="https://i.gyazo.com/6fc5be884e791fced9542f2f18cfea5e.png">
+<img src="https://i.gyazo.com/7fe6912a186d4076a6a3f71a46252cc9.png">
+<img src="https://i.gyazo.com/414a346357789e873120ab9101f2938d.png">
+<img src="https://i.gyazo.com/0419efbd88aa48947e70f1ac1b2a3331.png">
+<img src="https://i.gyazo.com/f45d68c730313b350debbe2a9a02f31c.png">
+<img src="https://i.gyazo.com/09babdad0863f77f7be83e26e1940dbb.png">
+<img src="https://i.gyazo.com/aa9bca0cb54c35628589495a0fc7bb15.png">
+<img src="https://i.gyazo.com/6309cee42ee59f57e754a11157509bac.png">
+<img src="https://i.gyazo.com/792c6cd6181ba2e26380c36e87184eec.png">
+
