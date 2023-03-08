@@ -56,3 +56,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.gyazo.com/f5fe0ce3dcad8bcc10b0f91a331db04f.png">
 <img src="https://i.gyazo.com/a8bf55f522277aa86044fccf5dab55de.png">
 <img src="https://i.gyazo.com/dd2033b5f9ecdf129ede4bc68c00de09.png">
+<p>Step 7: Select “Tickets” -> Select the ticket titled “Accounting department can’t user Adobe Reader” -> Set Priority to High -> Leave the ticket assingned to the Support department -> Set the SLA to SEV-B -> Assign the ticket to “Jane Doe” -> Log out -> Log in as jane@osticket.com -> Click the “Accounting department can’t use Adobe Reader” ticket -> Write an example reply explaining what you did to help solve the ticket hypothetically like the image below of my example response. -> Set the “Ticket Status:'' to “Resolved" -> Click “Post Reply”</p>
+<img src="https://i.gyazo.com/30be6f54f4ff6f9c8d9f51a46c6b67fc.png">
+<img src="https://i.gyazo.com/e99eee25c3fbed7a1b19a2258ffca3bb.png">
+<img src="https://i.gyazo.com/af72c3fe812bf4cebfc316b61d3c32ca.png">
+<img src="https://i.gyazo.com/d80d87994def48a635af21eb3814de4f.png">
+<img src="https://i.gyazo.com/a372b90fe0757c7746108aa30dddd20f.png">
+<img src="https://i.gyazo.com/236fbc21255b246c623c7a13fc64d3ca.png">
+<img src="https://i.gyazo.com/f62208adbb4f99478eb2e73d38cd742c.png">
+<img src="https://i.gyazo.com/7d8d77167a51aaed52bc70ab0a129b2f.png">
