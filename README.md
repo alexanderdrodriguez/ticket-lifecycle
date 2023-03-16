@@ -19,13 +19,6 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Follow this complete [osTicket Installation Tutorial](https://github.com/alexanderdrodriguez/osticket-prereqs) and [osTicket Post Installation Configuration Tutorial](https://github.com/alexanderdrodriguez/post-install-config) before starting this tutorial
 
-<h2>Ticket Lifecycle Stages</h2>
-
-- Intake
-- Assignment and Communication
-- Working the Issue
-- Resolution
-
 <h2>Ticket Lifecycle Steps</h2>
 
 <p></p>
