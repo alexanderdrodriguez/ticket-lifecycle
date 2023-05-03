@@ -7,7 +7,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: osTicket Ticket Lifecycle Tutorial with Microsoft Azure Part 3: Intake to Resolution](https://youtu.be/Skud9OEovqw)
+- ### [YouTube: osTicket Ticket Lifecycle Tutorial with Microsoft Azure Part 3: Intake to Resolution](https://youtu.be/xppVUJ3PEtI)
 
 <h2>Environments and Technologies Used</h2>
 
